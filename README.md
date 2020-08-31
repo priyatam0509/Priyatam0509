@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme.gif">
+  <img src="https://github.com/priyatam0509/Priyatam/blob/master/tenor.gif">
 </p>
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
