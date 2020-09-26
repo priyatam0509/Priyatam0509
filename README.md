@@ -39,7 +39,7 @@
 <br></br>
 
 <a href="https://github.com/priyatam0509">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatam0509&theme=radical&show_icons=true&count_private=false&hide_border=true&line_height=25" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatam0509&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" />
 </a>
 
 
