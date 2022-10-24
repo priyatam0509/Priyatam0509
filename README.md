@@ -14,11 +14,11 @@
 ### Where did I work earlier:question::woman_technologist:
 <code>* [Actinide ltd.](https://beta.companieshouse.gov.uk/company/06617819) [Software Developer]</code>  
 <code>* [Campus 24](https://campus24.in/) [Web Developer Lead]</code>        
-<code>* [GirlScript Foundation](https://www.girlscript.tech/) [Social Media head]</code>     
+<code>* [GirlScript Foundation](https://www.girlscript.tech/) [Tech head]</code>     
    
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["React" , "Automation Testing" , "Firebase"];</code>
+<code>var topics = ["React" , "Redux" , "Firebase" , "DevOps"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[Smart-traffic-management](https://github.com/priyatam0509/Smart-Traffic-Management)</code>:hourglass:     
